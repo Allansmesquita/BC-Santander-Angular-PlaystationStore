@@ -8,12 +8,9 @@
     height: 40px;
     box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5) ;
 }
-.menu-bar__logo{
-    margin-left: 30px;
-    display: flex;
-    align-items: center;
-}
+
 .menu-bar__item{
+    position: relative;
     display: flex;
     margin: auto;
     align-items: center;
@@ -34,6 +31,7 @@
     padding: 5px;
     color: rgb(7,7,7);
     font-family: 'Segoe UI';
+    font-weight: 500;
 }
 
 .menu-bar__item > ul > li > a:hover{

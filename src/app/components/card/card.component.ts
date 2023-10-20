@@ -8,6 +8,8 @@ import { Component, Input, OnInit } from '@angular/core';
 export class CardComponent implements OnInit {
   
   @Input()
+  gameName:string= ""
+  @Input()
   gameCover:string= ""
   @Input()
   gameLabel:string=""
@@ -15,6 +17,7 @@ export class CardComponent implements OnInit {
   gameType:string = ""
   @Input()
   gamePrice:string = ""
+  baseURL:string = "https://www.youtube.com/search?q=trailer"
   constructor() { }
 
   ngOnInit(): void {

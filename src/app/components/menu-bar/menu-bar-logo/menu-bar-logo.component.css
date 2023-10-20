@@ -1,0 +1,7 @@
+.menu-bar__logo{
+    position: absolute;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    padding: 3px 0px 0px 0px;
+}
