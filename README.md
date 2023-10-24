@@ -1,3 +1,17 @@
+# Projeto Prático: Replicando a PlayStation Store
+
+Replicação da PlayStation store durante o curso de Desenvolvimento Web com Angular 
+No projeto foram adicionados:
+
+
+-Uma imagem clicável de cada lançamento que redireciona para o trailer do jogo no Youtube.
+
+-Links para o Youtube, Linkedin e Github do desenvolvedor.
+
+![GifPlayStore](https://github.com/Allansmesquita/BC-Santander-Angular-PlaystationStore/assets/130494805/75162e8f-fdcd-4eee-b437-0de2d41921b0)
+
+
+
 # Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
